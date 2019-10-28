@@ -1,12 +1,158 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b53b5d00-0972-4c95-9fdb-283ac6b2beb1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/mybatisplus/src/main/java/com/lv/code/config/SwaggerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatisplus/target/classes/META-INF/mybatisplus.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/target/classes/com/lv/code/thread/test/jstackest/JstackCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/base/target/classes/com/lv/code/thread/test/jstackest/JstackCase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/target/classes/com/lv/code/thread/test/locktest/LockTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/base/target/classes/com/lv/code/thread/test/locktest/LockTest$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/target/classes/com/lv/code/thread/test/locktest/LockTest$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/base/target/classes/com/lv/code/thread/test/locktest/LockTest$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/target/classes/com/lv/code/thread/test/locktest/LockTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/base/target/classes/com/lv/code/thread/test/locktest/LockTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/target/classes/com/lv/code/thread/test/locktest/LockTest1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/base/target/classes/com/lv/code/thread/test/locktest/LockTest1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/target/classes/com/lv/code/thread/test/locktest/LockTest1$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/base/target/classes/com/lv/code/thread/test/locktest/LockTest1$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/target/classes/com/lv/code/thread/test/locktest/LockTest1.class" beforeDir="false" afterPath="$PROJECT_DIR$/base/target/classes/com/lv/code/thread/test/locktest/LockTest1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/target/classes/com/lv/code/thread/test/locktest/LockTest2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/base/target/classes/com/lv/code/thread/test/locktest/LockTest2$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/target/classes/com/lv/code/thread/test/locktest/LockTest2$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/base/target/classes/com/lv/code/thread/test/locktest/LockTest2$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/target/classes/com/lv/code/thread/test/locktest/LockTest2.class" beforeDir="false" afterPath="$PROJECT_DIR$/base/target/classes/com/lv/code/thread/test/locktest/LockTest2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatisplus/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatisplus/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatisplus/src/main/java/com/lv/code/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatisplus/src/main/java/com/lv/code/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatisplus/src/main/java/com/lv/code/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatisplus/src/main/java/com/lv/code/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatisplus/src/main/java/com/lv/code/mapper/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatisplus/src/main/java/com/lv/code/mapper/UserMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatisplus/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatisplus/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatisplus/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatisplus/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatisplus/target/classes/com/lv/code/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/mybatisplus/target/classes/com/lv/code/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatisplus/target/classes/com/lv/code/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/mybatisplus/target/classes/com/lv/code/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatisplus/target/classes/com/lv/code/mapper/UserMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/mybatisplus/target/classes/com/lv/code/mapper/UserMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatisplus/target/classes/com/lv/code/model/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/mybatisplus/target/classes/com/lv/code/model/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/src/main/java/com/lv/code/springboot/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring/src/main/java/com/lv/code/springboot/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/src/main/java/com/lv/code/springcloud/UserEurekaApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/src/main/java/com/lv/code/springcloud/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/src/main/java/com/lv/code/springcloud/mapper/UserMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/src/main/java/com/lv/code/springcloud/model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/target/classes/com/lv/code/springboot/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring/target/classes/com/lv/code/springboot/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/target/classes/com/lv/code/springboot/rocketmq/Consumer$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring/target/classes/com/lv/code/springboot/rocketmq/Consumer$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/target/classes/com/lv/code/springboot/rocketmq/Consumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring/target/classes/com/lv/code/springboot/rocketmq/Consumer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/target/classes/com/lv/code/springboot/rocketmq/Producer.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring/target/classes/com/lv/code/springboot/rocketmq/Producer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/target/classes/com/lv/code/springcloud/UserEurekaApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/target/classes/com/lv/code/springcloud/controller/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/target/classes/com/lv/code/springcloud/mapper/UserMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/target/classes/com/lv/code/springcloud/model/User.class" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1SpW7AQbtcFRdU8Wd7bGbeXLuqr" />
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SpvpNi01RKbacSfg8gEK3R2xju" />
   <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.alibabacloud.intellij.config.RegionConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.App (1)">
+    <configuration name="App (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="mybatisplus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lv.code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lv.code.App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lv.code.springboot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lv.code.springboot.App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.App (1)" />
+        <item itemvalue="Spring Boot.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b53b5d00-0972-4c95-9fdb-283ac6b2beb1" name="Default Changelist" comment="" />
+      <created>1572273533740</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572273533740</updated>
+      <workItem from="1572273536412" duration="1296000" />
+      <workItem from="1572274920710" duration="6137000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
