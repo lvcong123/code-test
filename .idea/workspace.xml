@@ -2,49 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b53b5d00-0972-4c95-9fdb-283ac6b2beb1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mybatisplus/src/main/java/com/lv/code/config/SwaggerConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatisplus/target/classes/META-INF/mybatisplus.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base/target/classes/com/lv/code/thread/test/jstackest/JstackCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/base/target/classes/com/lv/code/thread/test/jstackest/JstackCase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base/target/classes/com/lv/code/thread/test/locktest/LockTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/base/target/classes/com/lv/code/thread/test/locktest/LockTest$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base/target/classes/com/lv/code/thread/test/locktest/LockTest$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/base/target/classes/com/lv/code/thread/test/locktest/LockTest$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base/target/classes/com/lv/code/thread/test/locktest/LockTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/base/target/classes/com/lv/code/thread/test/locktest/LockTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base/target/classes/com/lv/code/thread/test/locktest/LockTest1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/base/target/classes/com/lv/code/thread/test/locktest/LockTest1$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base/target/classes/com/lv/code/thread/test/locktest/LockTest1$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/base/target/classes/com/lv/code/thread/test/locktest/LockTest1$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base/target/classes/com/lv/code/thread/test/locktest/LockTest1.class" beforeDir="false" afterPath="$PROJECT_DIR$/base/target/classes/com/lv/code/thread/test/locktest/LockTest1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base/target/classes/com/lv/code/thread/test/locktest/LockTest2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/base/target/classes/com/lv/code/thread/test/locktest/LockTest2$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base/target/classes/com/lv/code/thread/test/locktest/LockTest2$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/base/target/classes/com/lv/code/thread/test/locktest/LockTest2$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base/target/classes/com/lv/code/thread/test/locktest/LockTest2.class" beforeDir="false" afterPath="$PROJECT_DIR$/base/target/classes/com/lv/code/thread/test/locktest/LockTest2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatisplus/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatisplus/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatisplus/src/main/java/com/lv/code/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatisplus/src/main/java/com/lv/code/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatisplus/src/main/java/com/lv/code/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatisplus/src/main/java/com/lv/code/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatisplus/src/main/java/com/lv/code/mapper/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatisplus/src/main/java/com/lv/code/mapper/UserMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatisplus/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatisplus/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatisplus/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatisplus/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatisplus/target/classes/com/lv/code/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/mybatisplus/target/classes/com/lv/code/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatisplus/target/classes/com/lv/code/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/mybatisplus/target/classes/com/lv/code/controller/UserController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatisplus/target/classes/com/lv/code/mapper/UserMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/mybatisplus/target/classes/com/lv/code/mapper/UserMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatisplus/target/classes/com/lv/code/model/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/mybatisplus/target/classes/com/lv/code/model/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatisplus/src/main/java/com/lv/code/config/SwaggerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatisplus/src/main/java/com/lv/code/config/SwaggerConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring/src/main/java/com/lv/code/springboot/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring/src/main/java/com/lv/code/springboot/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring/src/main/java/com/lv/code/springcloud/UserEurekaApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring/src/main/java/com/lv/code/springcloud/controller/UserController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring/src/main/java/com/lv/code/springcloud/mapper/UserMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring/src/main/java/com/lv/code/springcloud/model/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring/target/classes/com/lv/code/springboot/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring/target/classes/com/lv/code/springboot/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring/target/classes/com/lv/code/springboot/rocketmq/Consumer$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring/target/classes/com/lv/code/springboot/rocketmq/Consumer$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring/target/classes/com/lv/code/springboot/rocketmq/Consumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring/target/classes/com/lv/code/springboot/rocketmq/Consumer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring/target/classes/com/lv/code/springboot/rocketmq/Producer.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring/target/classes/com/lv/code/springboot/rocketmq/Producer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring/target/classes/com/lv/code/springcloud/UserEurekaApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring/target/classes/com/lv/code/springcloud/controller/UserController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring/target/classes/com/lv/code/springcloud/mapper/UserMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring/target/classes/com/lv/code/springcloud/model/User.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -135,7 +96,8 @@
       <option name="presentableId" value="Default" />
       <updated>1572273533740</updated>
       <workItem from="1572273536412" duration="1296000" />
-      <workItem from="1572274920710" duration="6137000" />
+      <workItem from="1572274920710" duration="6919000" />
+      <workItem from="1572283027509" duration="949000" />
     </task>
     <servers />
   </component>
