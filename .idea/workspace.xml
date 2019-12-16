@@ -2,12 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b53b5d00-0972-4c95-9fdb-283ac6b2beb1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/base/src/main/java/com/lv/code/thread/test/futuretest/MfutureTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/src/main/java/com/lv/code/thread/test/jdk/map/ConcurrentHashMapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/src/main/java/com/lv/code/thread/test/jdk/map/HashMapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/src/main/java/com/lv/code/thread/test/jdk/map/HashTableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/src/main/java/com/lv/code/thread/test/jdk/map/LinkedHashMapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/src/main/java/com/lv/code/thread/test/jdk/map/TreeMapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/src/main/java/com/lv/code/thread/test/jdk/process/ProcessTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/src/main/java/com/lv/code/springboot/model/BaseStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/src/main/java/com/lv/code/springboot/model/SimpleModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/src/main/java/com/lv/code/springboot/model/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/src/main/java/com/lv/code/springboot/test/JavaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatisplus/src/main/java/com/lv/code/config/SwaggerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatisplus/src/main/java/com/lv/code/config/SwaggerConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatisplus/target/classes/com/lv/code/config/SwaggerConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/mybatisplus/target/classes/com/lv/code/config/SwaggerConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring/src/main/java/com/lv/code/springboot/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring/src/main/java/com/lv/code/springboot/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +49,7 @@
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring/src/main" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/base/src/main/java/com/lv/code/thread/test/jdk" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
@@ -54,7 +61,13 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lv.code.thread.test.jdk.process" />
+      <recent name="com.lv.code.springboot.model" />
+      <recent name="com.lv.code.springboot.test" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\work\privat\code-test\base\src\main\java\com\lv\code\thread\test\jdk" />
       <recent name="D:\work\privat\code-test\spring\src\main" />
       <recent name="D:\work\privat\code-test" />
     </key>
@@ -71,13 +84,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.App">
-    <configuration name="MfutureTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lv.code.thread.test.futuretest.MfutureTest" />
+  <component name="RunManager" selected="Application.LinkedHashMapTest">
+    <configuration name="ConcurrentHashMapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lv.code.thread.test.jdk.map.ConcurrentHashMapTest" />
       <module name="base" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lv.code.thread.test.futuretest.*" />
+          <option name="PATTERN" value="com.lv.code.thread.test.jdk.map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,37 +98,68 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="App (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="mybatisplus" />
+    <configuration name="HashMapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lv.code.thread.test.jdk.map.HashMapTest" />
+      <module name="base" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lv.code.*" />
+          <option name="PATTERN" value="com.lv.code.thread.test.jdk.map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lv.code.App" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+    <configuration name="JavaTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lv.code.springboot.test.JavaTest" />
       <module name="spring" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lv.code.springboot.*" />
+          <option name="PATTERN" value="com.lv.code.springboot.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lv.code.springboot.App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedHashMapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lv.code.thread.test.jdk.map.LinkedHashMapTest" />
+      <module name="base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lv.code.thread.test.jdk.map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProcessTest.ls" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lv.code.thread.test.jdk.process.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lv.code.thread.test.jdk.process" />
+      <option name="MAIN_CLASS_NAME" value="com.lv.code.thread.test.jdk.process.ProcessTest" />
+      <option name="METHOD_NAME" value="ls" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.App" />
-        <item itemvalue="Spring Boot.App (1)" />
-        <item itemvalue="Application.MfutureTest" />
+        <item itemvalue="Application.LinkedHashMapTest" />
+        <item itemvalue="Application.HashMapTest" />
+        <item itemvalue="Application.ConcurrentHashMapTest" />
+        <item itemvalue="JUnit.ProcessTest.ls" />
+        <item itemvalue="Application.JavaTest" />
       </list>
     </recent_temporary>
   </component>
@@ -135,7 +179,8 @@
       <workItem from="1572331372816" duration="599000" />
       <workItem from="1572398467993" duration="613000" />
       <workItem from="1572856131961" duration="599000" />
-      <workItem from="1573025465262" duration="5771000" />
+      <workItem from="1573025465262" duration="13183000" />
+      <workItem from="1573354647351" duration="1299000" />
     </task>
     <servers />
   </component>
